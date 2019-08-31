@@ -34,8 +34,8 @@ class SummernoteBs4Asset extends AssetBundle
 
     public $depends = [
         'yii\web\YiiAsset',
-        'yii\bootstrap\BootstrapAsset',
-        'yii\bootstrap\BootstrapPluginAsset',
+        'yii\bootstrap4\BootstrapAsset',
+        'yii\bootstrap4\BootstrapPluginAsset',
         'phpnt\fontAwesome\FontAwesomeAsset',
     ];
 }
