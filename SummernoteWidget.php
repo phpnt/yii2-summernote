@@ -16,8 +16,8 @@ use phpnt\summernote\assets\SummernoteBs3Asset;
 use phpnt\summernote\assets\SummernoteBs4Asset;
 use phpnt\summernote\assets\SummernoteLiteAsset;
 use phpnt\summernote\assets\EmojiAsset;
-use yii\bootstrap\InputWidget;
-use yii\bootstrap\Html;
+use yii\widgets\InputWidget;
+use yii\helpers\Html;
 use yii\helpers\ArrayHelper;
 use yii\helpers\Json;
 
